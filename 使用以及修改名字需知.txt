@@ -1,0 +1,7 @@
+1.用文本编辑器打开index.html文件（也有可能叫love.html）。把第16行里面的 “给你的爱心”修改成你想送爱心的对象名字
+如果步骤1 不能成功编辑，可以先把index.html改成txt后缀，txt文件就可以直接编辑了，改了名字，再把Index文件改成html后缀
+2.保存index.html
+3.把index.html文件用浏览器打开即可看到效果，直接双击index.html就行
+
+如果需要替换背景图，可以看这个在线文档 【腾讯文档】爱心代码疑问解答：怎么改名字，背景图，怎么换背景音乐
+https://docs.qq.com/doc/DREtsV2FFbU9qanBK
